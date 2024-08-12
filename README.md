@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Jetpack Compose, Kotlin Multiplatform**
 
-- 📝 I regularly write articles on [https://github.com/KevinAngga](https://github.com/KevinAngga)
+- 📝 I regularly write articles on [Medium](https://medium.com/@anggakusumo2)
 
 - 📫 How to reach me **anggakusumo2@gmail.com**
 
